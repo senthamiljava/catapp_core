@@ -1,4 +1,4 @@
-package com.senthamil.catapp.controller;
+package com.senthamil.catapp.dao;
 
 import com.senthamil.catapp.dao.StudentDAO;
 import com.senthamil.catapp.model.Student;

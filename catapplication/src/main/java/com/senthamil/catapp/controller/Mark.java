@@ -14,10 +14,6 @@ import com.senthamil.catapp.model.Student;
 
 @WebServlet("/Mark")
 public class Mark extends HttpServlet {
-	/**
-	 * 
-	 */
-	private static final long serialVersionUID = 1L;
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
